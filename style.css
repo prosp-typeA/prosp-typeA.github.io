@@ -34,10 +34,11 @@ div#perra p{
     text-align: center;
 }
 img{
-    margin-left: 30%;
+    margin-left: 40%;
     margin-right: 30%;
 }
 div#perra p a{
     text-decoration-color:  rgba(0, 255, 255, 0.411);
     color: rgba(0, 255, 255, 0.411);
+
 }

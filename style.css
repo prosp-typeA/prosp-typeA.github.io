@@ -1,0 +1,43 @@
+div.arriba{
+    background-color:darkblue;
+    padding: 3%;
+    border: 0;
+    margin: 0;
+}
+div.arriba h1{
+    color: antiquewhite;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+body{
+    background-color:rgb(35, 35, 35);
+}
+div.cuerpo p{
+    color: grey;
+    text-align: center;
+    font-size: large;
+}
+hr{
+    size: 50%;
+}
+div.cuerpo p span{
+    background:ghostwhite;
+}
+div.cuerpo p a{
+    text-decoration-color:  rgba(0, 255, 255, 0.411);
+    color: rgba(0, 255, 255, 0.411);
+}
+div#perra p{
+    color: grey;
+    font-size: large;
+    text-align: center;
+}
+img{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+div#perra p a{
+    text-decoration-color:  rgba(0, 255, 255, 0.411);
+    color: rgba(0, 255, 255, 0.411);
+}
